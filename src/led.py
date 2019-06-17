@@ -19,7 +19,7 @@ class LED:
         '''
         self.ledPin.value(self.LED_ON)
 
-    def on(self):
+    def off(self):
         '''
         关闭LED
         '''
